@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./microminds_art_logo_horizontal.png" alt="Microminds Art Logo" width="400"/>
 </p>
-
+# 🧠🎨 Microminds Art
 
 **Speak it. See it. Sell it.**  
 _An AI-powered voice-to-design platform that generates unique art on demand — built to empower creators, makers, and dreamers._
@@ -15,7 +15,7 @@ Microminds Art is the first product from **Microminds**: a creative lab where AI
 - 🎙️ **Voice-to-Prompt Engine** — Speak your idea, we turn it into a visual masterpiece
 - 🖼️ **AI Art Generator** — Powered by Stable Diffusion or Replicate API
 - 🧾 **Ready for Print** — Art prepped for print-on-demand platforms like Etsy & Printify
-- 🧠 **Creative AI Team** — Project guided by Kai (AI CEO), Rami (Dev), Luna (Design), and more
+- 🧠 **Creative AI Team** — Project guided by fantasy-style AI agents with unique strengths
 
 ---
 
@@ -28,6 +28,25 @@ Microminds Art is the first product from **Microminds**: a creative lab where AI
 | Voice Input     | Whisper / ElevenLabs             |
 | AI Art Engine   | Replicate API (Stable Diffusion) |
 | Deployment      | Vercel                           |
+
+---
+
+## 🧠 Meet the Team
+
+<p align="center">
+  <img src="./public/assets/microminds_team_avatars.png" alt="Microminds Team Avatars" width="600"/>
+</p>
+
+| Role                 | Name    | Title                                  |
+|----------------------|---------|----------------------------------------|
+| CEO/Manager          | Kai     | Overseer of Strategic Alignment         |
+| Developer            | Caden   | Arcane Builder of the Circuit Realm     |
+| Designer             | Vaela   | Dreamweaver from the Flowlands          |
+| Product Manager      | Nira    | Navigator of the Skyforge               |
+| Marketing            | Zyro    | Wordsmith of the Echo Market            |
+| Support & Feedback   | Elu     | Listener of the Whisper Glen            |
+| AI Researcher        | Velin   | Model Whisperer from the Code Abyss     |
+| Monetization         | Nyra    | Revenue Alchemist of the Crystal Market |
 
 ---
 
@@ -51,19 +70,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Roles & Agents
-
-| Role     | Name   | Description                           |
-|----------|--------|---------------------------------------|
-| CEO/Manager | Kai    | Oversees all direction + agent alignment |
-| Developer | Rami   | Fullstack builder + integrations     |
-| Designer | Luna   | UI/UX creative direction              |
-| PM       | Sofi   | Planning, timelines, roadmap          |
-| Marketing | Max    | Messaging, SEO, launch                |
-| Support  | Tina   | Feedback loops + user flow testing    |
-
----
-
 ## 💬 About
 
 Microminds is a studio for building Micro SaaS powered by AI agents and creative energy.  
@@ -72,6 +78,11 @@ This is just the beginning.
 > _“Small tools. Big minds.”_
 
 ---
+
+## 📫 Contact
+
+Want to collaborate or get involved?  
+Say hi to San (The Watcher): [bancalarisantiago@gmail.com](mailto:bancalarisantiago@gmail.com)
 
 ## 📫 Contact
 

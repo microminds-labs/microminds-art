@@ -84,7 +84,3 @@ This is just the beginning.
 Want to collaborate or get involved?  
 Say hi to San (The Watcher): [bancalarisantiago@gmail.com](mailto:bancalarisantiago@gmail.com)
 
-## 📫 Contact
-
-Want to collaborate or get involved?  
-Say hi to San (The Watcher): [bancalarisantiago@gmail.com](mailto:bancalarisantiago@gmail.com)

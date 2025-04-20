@@ -2,7 +2,6 @@
   <img src="./microminds_art_logo_horizontal.png" alt="Microminds Art Logo" width="400"/>
 </p>
 
-# 🧠🎨 Microminds Art
 
 **Speak it. See it. Sell it.**  
 _An AI-powered voice-to-design platform that generates unique art on demand — built to empower creators, makers, and dreamers._
